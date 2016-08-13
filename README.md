@@ -11,7 +11,7 @@ A.建立一个Demo：DrawableAnimationDemo，用来表示远程服务器端的ap
 
 效果如图所示
 
-![](http://2)
+![](http://https://github.com/IvyZh/PluginsDemo/blob/master/GIF.gif)
 
 B. 新建另外一个项目：PluginsDemo，用来演示调用插件
 
@@ -30,6 +30,10 @@ B. 新建另外一个项目：PluginsDemo，用来演示调用插件
 C. 理下思路
 
 PluginsDemo要想调用DrawableAnimationDemo的资源文件。
+
+效果图：
+
+![](![](http://https://github.com/IvyZh/PluginsDemo/blob/master/GIF2.gif))
 
 ---思路---
 
